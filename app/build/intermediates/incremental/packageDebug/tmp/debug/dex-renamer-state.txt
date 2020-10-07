@@ -1,0 +1,4 @@
+#Wed Oct 07 09:40:06 CDT 2020
+base.0=/Users/kmmx/AndroidStudioProjects/VideoEjemplo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
